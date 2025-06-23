@@ -22,4 +22,4 @@
 ```bash
 git clone https://github.com/your-username/product-analyzer.git
 cd product-analyzer
-python main.py
+python WB_ernur.py
